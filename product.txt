@@ -1,0 +1,1 @@
+dal,oil,flour,rice,soap,butter,pepper,chili powder,sugar,nuts
